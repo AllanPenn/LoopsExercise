@@ -17,3 +17,27 @@ while (harryPotterMovies < 8){
   harryPotterMovies++
 }
 console.log(harryPotterMovies);
+
+// BONUS
+const hogwartsHouses = [
+  "Gryffindor",
+  "Hufflepuff",
+  "Ravenclaw",
+  "Slytherin"
+];
+for (houses of hogwartsHouses){
+  for (letters of houses){
+    console.log(letters);
+  }
+}
+const quote = [
+  "Yer",
+  "A",
+  "Wizard",
+  "Harry"
+];
+let sentence = "";
+while (quote != sentence){
+  console.log(quote.join(" "));
+  break;
+}
